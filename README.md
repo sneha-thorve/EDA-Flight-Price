@@ -1,4 +1,4 @@
-# EDA-Flight-Price
+# Project Exploratory Data Analysis
 Exploratory data Analysis on Flight price dataset
 The data set is downloaded from kaggle.com
 Data Cleaning, Data visualization, feature scaling and statistical tests like one-way ANOVA and t-tests are performed the dataset.
